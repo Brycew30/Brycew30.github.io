@@ -1,11 +1,11 @@
 # Site settings
 author: Bryce Whittington
-title: 
+title: Why I Chose To Learn About Software Engineering
 header-img: img/home-bg.png
 email: brycew30@gmail.com
 copyright_name: Bryce Whittington
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Starting from Zero
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Brycew30
